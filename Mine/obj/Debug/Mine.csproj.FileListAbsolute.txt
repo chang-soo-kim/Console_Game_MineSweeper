@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Mine\Mine\bin\Debug\Mine.exe.config
+C:\Users\User\source\repos\Mine\Mine\bin\Debug\Mine.exe
+C:\Users\User\source\repos\Mine\Mine\bin\Debug\Mine.pdb
+C:\Users\User\source\repos\Mine\Mine\obj\Debug\Mine.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Mine\Mine\obj\Debug\Mine.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Mine\Mine\obj\Debug\Mine.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mine\Mine\obj\Debug\Mine.exe
+C:\Users\User\source\repos\Mine\Mine\obj\Debug\Mine.pdb
